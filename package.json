@@ -4,10 +4,9 @@
   "description": "![badge](https://img.shields.io/github/languages/top/ratalla816/food-festival)\r   <br> \r   ![badge](https://img.shields.io/github/languages/count/ratalla816/food-festival)\r   <br>\r   ![badge](https://img.shields.io/github/issues/ratalla816/food-festival)\r   <br>\r   ![badge](https://img.shields.io/github/issues-closed/ratalla816/food-festival)\r   <br>\r   ![badge](https://img.shields.io/github/last-commit/ratalla816/food-festival)\r   <br>\r   ![badge](https://img.shields.io/badge/license-MIT-important)",
   "main": "index.js",
   "scripts": {
-     "webpack": "webpack --watch",
-      "build": "webpack"
+    "webpack": "webpack --watch",
+    "build": "webpack"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ratalla816/food-festival.git"
@@ -21,5 +20,13 @@
   "homepage": "https://github.com/ratalla816/food-festival#readme",
   "devDependencies": {
     "webpack-cli": "^4.9.0"
+  },
+  "dependencies": {
+    "4": "^0.0.0",
+    "@popperjs/core": "^2.10.2",
+    "at": "^0.0.1-security",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
