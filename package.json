@@ -28,6 +28,7 @@
     "@popperjs/core": "^2.10.2",
     "at": "^0.0.1-security",
     "bootstrap": "^4.6.0",
+    "image-webpack-loader": "^8.0.1",
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1"
   }
